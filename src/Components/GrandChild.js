@@ -4,7 +4,7 @@ import GrandChildImage from '../Images/Aradhya_Bachchan.jpg'
 export default function GrandChild(props) {
     return (
         <div className="col-6">
-            <div className="card card-size text-center">
+            <div className="card card-size text-center" >
                 <div className="card-header h5">
                     Grand Child
                 </div>
